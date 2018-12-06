@@ -39,8 +39,12 @@ i:hover{
 }
 .columns {
  padding-left: 30%;
-  display: grid;
-  grid-template-columns: 1fr 1fr 2fr; /* fraction*/
+ 
+
+ display: grid;
+ grid-template-columns: 1fr 1fr 2fr; /* fraction*/
+
+
 } 
 
 
@@ -89,8 +93,10 @@ h2 {
 	padding-left: 350px;
 }
 
-
-h3{
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	color: #EDF5E1;
+	font-size: 15px;
 }
 
 p {
