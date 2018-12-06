@@ -1,0 +1,103 @@
+
+
+main {
+ width: 80%;
+ margin: 0 auto;
+
+}
+body {
+
+font-size: 16px;
+background-color: #5CDB95;
+
+
+}
+
+section{
+	width: 70%;
+	margin: 0 auto;
+}
+
+
+header {
+  color: #edf5e1;
+  width: 50%
+  height: 200px;
+
+}
+
+div {
+	font-size: 80px;
+}
+
+i {
+	color: #05386B;
+}
+i:hover{
+	color: #379683;
+
+}
+.columns {
+ padding-left: 30%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr; /* fraction*/
+} 
+
+
+nav  { 
+
+ width: 100%
+ font-size 2em;
+ position: fixed;
+
+ background-color: #5CDB95;
+ top: 8px;
+
+}
+nav > ul > li {
+	
+	list-style: none;
+	display: inline;
+	padding-left: 20px;
+	height: 15px;	
+}
+
+li > a {
+	
+	font-family: 'Bungee', cursive;
+	
+	text-decoration: none;
+	color: #05386B;
+}
+
+li > a:hover {
+	color: #379683;
+}
+
+ h1 {
+ 	font-family: 'Open Sans', sans-serif;
+ 	color: #EDF5E1;
+	padding-left: 300px;
+	font-size: 5em;'
+	
+    
+}
+
+h2 {
+	font-family: 'Bungee', cursive;
+	color: #EDF5E1;
+	padding-left: 350px;
+}
+
+
+h3{
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #EDF5E1;
+	font-size: 20px;	
+}
+div {
+	height: 200px;
+}
