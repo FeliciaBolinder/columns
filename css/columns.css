@@ -50,12 +50,11 @@ i:hover{
 
 nav  { 
 
- width: 100%
+ width: 100%;
  font-size 2em;
  position: fixed;
-
  background-color: #5CDB95;
- top: 8px;
+ top: 0px;
 
 }
 nav > ul > li {
